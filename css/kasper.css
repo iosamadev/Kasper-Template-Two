@@ -214,7 +214,7 @@ header .form i {
 /* Start Landing */
 .landing {
     background-color: #000;
-    background: url(/images/landing.jpg);
+    background: url(images/landing.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -372,7 +372,7 @@ header .form i {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url(/images/design-features.jpg);
+    background-image: url(images/design-features.jpg);
 }
 
 .Design::after {
@@ -562,7 +562,7 @@ header .form i {
 /* End About  */
 /* Start Stats  */
 .stats {
-    background-image: url(/images/stats.png);
+    background-image: url(images/stats.png);
     background-size: cover;
     position: relative;
     z-index: 0;
@@ -796,7 +796,7 @@ header .form i {
 /* End Skills */
 /* Start Quote  */
 .quote {
-    background-image: url(/images/quote.jpg);
+    background-image: url(images/quote.jpg);
     background-size: cover;
     position: relative;
 }
@@ -903,7 +903,7 @@ header .form i {
 /* End Pricing  */
 /* Start subscribe  */
 .subscribe {
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     position: relative;
     padding-top: 100px;
@@ -1051,7 +1051,7 @@ header .form i {
 /* End Contact  */
 /* Start footer  */
 .footer {
-   background-image: url(/images/subscribe.jpg);
+   background-image: url(images/subscribe.jpg);
    background-size: cover;
    position: relative;
 }
